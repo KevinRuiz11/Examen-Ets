@@ -1,0 +1,47 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'1.7'
+-sourcepath
+'/home/daw/Escritorio/Examen-Ets/ejercicio_ets/area/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/daw/Escritorio/Examen-Ets/ejercicio_ets/area/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Modulo area del proyecto ejercicio_ets 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/7/docs/api' '/home/daw/Escritorio/Examen-Ets/ejercicio_ets/area/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Modulo area del proyecto ejercicio_ets 1.0-SNAPSHOT API'
+es.iespuerto.area
+/home/daw/Escritorio/Examen-Ets/ejercicio_ets/area/src/main/java = 1647443903000
+/home/daw/Escritorio/Examen-Ets/ejercicio_ets/area/target/site/apidocs/package-search-index.js = 1647444164517
+/home/daw/Escritorio/Examen-Ets/ejercicio_ets/area/target/site/apidocs/allpackages-index.html = 1647444164529
+/home/daw/Escritorio/Examen-Ets/ejercicio_ets/area/target/site/apidocs/deprecated-list.html = 1647444164533
+/home/daw/Escritorio/Examen-Ets/ejercicio_ets/area/target/site/apidocs/index-all.html = 1647444164525
+/home/daw/Escritorio/Examen-Ets/ejercicio_ets/area/target/site/apidocs/type-search-index.js = 1647444164521
+/home/daw/Escritorio/Examen-Ets/ejercicio_ets/area/target/site/apidocs/search.js = 1647444164541
+/home/daw/Escritorio/Examen-Ets/ejercicio_ets/area/target/site/apidocs/member-search-index.zip = 1647444164525
+/home/daw/Escritorio/Examen-Ets/ejercicio_ets/area/target/site/apidocs/member-search-index.js = 1647444164525
+/home/daw/Escritorio/Examen-Ets/ejercicio_ets/area/target/site/apidocs/package-search-index.zip = 1647444164521
+/home/daw/Escritorio/Examen-Ets/ejercicio_ets/area/target/site/apidocs/index.html = 1647444164537
+/home/daw/Escritorio/Examen-Ets/ejercicio_ets/area/target/site/apidocs/stylesheet.css = 1647444164541
+/home/daw/Escritorio/Examen-Ets/ejercicio_ets/area/target/site/apidocs/element-list = 1647444164481
+/home/daw/Escritorio/Examen-Ets/ejercicio_ets/area/target/site/apidocs/constant-values.html = 1647444164493
+/home/daw/Escritorio/Examen-Ets/ejercicio_ets/area/target/site/apidocs/type-search-index.zip = 1647444164525
+/home/daw/Escritorio/Examen-Ets/ejercicio_ets/area/target/site/apidocs/overview-tree.html = 1647444164509
+/home/daw/Escritorio/Examen-Ets/ejercicio_ets/area/target/site/apidocs/script.js = 1647444164541
+/home/daw/Escritorio/Examen-Ets/ejercicio_ets/area/target/site/apidocs/allclasses-index.html = 1647444164529
+/home/daw/Escritorio/Examen-Ets/ejercicio_ets/area/target/site/apidocs/help-doc.html = 1647444164541
+/home/daw/Escritorio/Examen-Ets/ejercicio_ets/area/target/site/apidocs/allclasses.html = 1647444164537

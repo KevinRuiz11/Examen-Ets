@@ -1,6 +1,5 @@
 package es.iespuerto.area;
 
-
 /**
  * Clase para creación de figuras y cálculos de áreas con las mismas.
  * 
